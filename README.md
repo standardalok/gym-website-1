@@ -1,2 +1,2 @@
 # gym-website-1
-website made by antigravit
+website made by lovable
